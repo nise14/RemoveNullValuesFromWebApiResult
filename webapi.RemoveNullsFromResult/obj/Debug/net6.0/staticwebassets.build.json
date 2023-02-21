@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ytIFfGn5/SrlFHJhbD5UawJmMwGRaeyLCLmPGRZFFR8=",
+  "Source": "webapi.RemoveNullsFromResult",
+  "BasePath": "_content/webapi.RemoveNullsFromResult",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
